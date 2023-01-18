@@ -57,7 +57,7 @@ To get a local copy up and running, follow these steps.
 
 ### Setup
 
-Clone this repository to your desired folder: https://github.com/MICHAELKITH/microverse-mike-portifolio.git
+Clone this repository to your desired folder: https://github.com/MICHAELKITH/desktop-version-portfolio-project.git
 
 
 ### Install
@@ -134,7 +134,6 @@ I would like to thank my Microverse recruiters team
   - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 📝 License <a name="license"></a>
 
